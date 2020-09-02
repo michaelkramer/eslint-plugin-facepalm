@@ -1,6 +1,22 @@
 {
   "name": "eslint-plugin-facepalm",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+  "main": "plugin/index.js",
+  "license": "MIT",
+  "description": "All the dumb! code you left in before your push.",
+  "scripts": {
+    "test": "mocha tests/**/*.js"
+  },
+  "repository": {
+    "url": "git+https://github.com/michaelkramer/eslint-plugin-facepalm.git",
+    "type": "git"
+  },
+  "author": {
+    "name": "Michael Kramer",
+    "email": "michaelrkramer@gmail.com"
+  },
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "mocha": "^8.1.3"
+  }
 }
