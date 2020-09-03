@@ -1,11 +1,12 @@
 {
-  "name": "eslint-plugin-facepalm",
-  "version": "1.0.0",
+  "name": "@michaelkramer/eslint-plugin-facepalm",
+  "version": "1.0.1",
   "main": "plugin/index.js",
   "license": "MIT",
   "description": "All the dumb! code you left in before your push.",
   "scripts": {
-    "test": "mocha tests/**/*.js"
+    "test": "mocha tests/**/*.js",
+    "patch": "npm version patch"
   },
   "repository": {
     "url": "git+https://github.com/michaelkramer/eslint-plugin-facepalm.git",
