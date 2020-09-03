@@ -1,6 +1,6 @@
 {
   "name": "@michaelkramer/eslint-plugin-facepalm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "plugin/index.js",
   "license": "MIT",
   "description": "All the dumb! code you left in before your push.",
