@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-facepalm",
+  "name": "@michaelkramer/eslint-plugin-facepalm",
   "version": "1.0.0",
   "main": "plugin/index.js",
   "license": "MIT",
