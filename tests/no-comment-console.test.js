@@ -11,9 +11,14 @@ tester.run("no-comment-console", Rule, {
       const a = 2;
       // console.log('something');
       `,
+
+      output: `
+      const a = 2;
+      
+      `,
       errors: [
         {
-          message: "Did you just leave a commented 'console'?!?",
+          message: "Did you just leave a commented 'console.log'?",
         },
       ],
     },
