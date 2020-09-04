@@ -1,11 +1,13 @@
 # Changelog
 
-## [Unreleased](https://github.com/michaelkramer/eslint-plugin-facepalm/tree/HEAD)
+## [v1.1.0](https://github.com/michaelkramer/eslint-plugin-facepalm/tree/v1.1.0) (2020-09-04)
 
-[Full Changelog](https://github.com/michaelkramer/eslint-plugin-facepalm/compare/1.0.0...HEAD)
+[Full Changelog](https://github.com/michaelkramer/eslint-plugin-facepalm/compare/1.0.0...v1.1.0)
 
 **Merged pull requests:**
 
+- Doc2 [\#9](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/9) ([michaelkramer](https://github.com/michaelkramer))
+- No useless comments [\#8](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/8) ([michaelkramer](https://github.com/michaelkramer))
 - Readme1 [\#7](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/7) ([michaelkramer](https://github.com/michaelkramer))
 - New CI Actions [\#6](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/6) ([michaelkramer](https://github.com/michaelkramer))
 - Test publish [\#5](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/5) ([michaelkramer](https://github.com/michaelkramer))
