@@ -27,8 +27,28 @@ yarn add @michaelkramer/eslint-plugin-facepalm --dev
     ],
     "rules": {
       "@michaelkramer/facepalm/no-comment-console": "warn"
+      "@michaelkramer/facepalm/no-useless-comments": "warn"
     }
 }
 ```
 
 ![Example](example.png)
+
+### Rules
+
+#### no-comment-console
+
+This reports if you leave `// console.log` in the code.
+
+#### no-useless-comments
+
+This reports if you leave `// const a = b` in the code.
+This looks for any of the javascript reserved words.
+
+Examples:
+
+- `// for (var i = 0; i < a.length; i++) {`
+- `// while (a < b.length)`
+- `// with(MATH)`
+- `// do {`
+- `// this.setStatus()`
