@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Update onMasterChange.yml [\#11](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/11) ([michaelkramer](https://github.com/michaelkramer))
 - Test Actions [\#10](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/10) ([michaelkramer](https://github.com/michaelkramer))
 
 ## [v1.1.1](https://github.com/michaelkramer/eslint-plugin-facepalm/tree/v1.1.1) (2020-09-04)
