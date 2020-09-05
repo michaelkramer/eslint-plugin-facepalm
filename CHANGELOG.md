@@ -19,6 +19,7 @@
 
 **Merged pull requests:**
 
+- Doc2 [\#9](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/9) ([michaelkramer](https://github.com/michaelkramer))
 - No useless comments [\#8](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/8) ([michaelkramer](https://github.com/michaelkramer))
 - Readme1 [\#7](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/7) ([michaelkramer](https://github.com/michaelkramer))
 - New CI Actions [\#6](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/6) ([michaelkramer](https://github.com/michaelkramer))
@@ -30,7 +31,6 @@
 
 **Merged pull requests:**
 
-- Doc2 [\#9](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/9) ([michaelkramer](https://github.com/michaelkramer))
 - Create main.yml [\#4](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/4) ([michaelkramer](https://github.com/michaelkramer))
 - Merge pull request \#2 from michaelkramer/doc [\#3](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/3) ([michaelkramer](https://github.com/michaelkramer))
 - Making a how to use [\#2](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/2) ([michaelkramer](https://github.com/michaelkramer))

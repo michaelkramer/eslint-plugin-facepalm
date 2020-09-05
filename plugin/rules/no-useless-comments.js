@@ -69,14 +69,7 @@ const reservedWords = [
   "with",
   "yield",
 ];
-/**
- * Gets a fixer function to remove a given 'use strict' directive.
- * @param {ASTNode} node The directive that should be removed
- * @returns {Function} A fixer function
- */
-function getFixFunction(node) {
-  return (fixer) => fixer.remove(node);
-}
+
 module.exports = {
   meta: {
     type: "suggestion",
