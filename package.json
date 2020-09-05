@@ -4,6 +4,13 @@
   "main": "plugin/index.js",
   "license": "MIT",
   "description": "All the dumb! code you left in before your push.",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "facepalm",
+    "comments"
+  ],
   "scripts": {
     "test": "mocha tests/**/*.js",
     "patch": "npm version patch"
