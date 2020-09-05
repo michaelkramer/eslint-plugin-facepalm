@@ -43,4 +43,4 @@ jobs:
       - uses: salsify/action-detect-and-tag-new-version@v2
         with:
           version-command: |
-            cat current-version.txt
+            node -p "require('./package.json').version"
