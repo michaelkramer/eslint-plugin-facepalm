@@ -1,3 +1,4 @@
+name: Publish because Tag changed
 on:
   push:
     branches:
