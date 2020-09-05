@@ -37,6 +37,9 @@ jobs:
           git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com" && git config --global user.name "$GITHUB_ACTOR"
           git add CHANGELOG.md && git commit -m 'Updated CHANGELOG.md' && echo ::set-env name=push::1 || echo "No changes to CHANGELOG.md"
           git push
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 2
       - uses: salsify/action-detect-and-tag-new-version@v2
         with:
           version-command: |
