@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/michaelkramer/eslint-plugin-facepalm/tree/HEAD)
 
-[Full Changelog](https://github.com/michaelkramer/eslint-plugin-facepalm/compare/v1.1.1...HEAD)
+[Full Changelog](https://github.com/michaelkramer/eslint-plugin-facepalm/compare/v1.1.3...HEAD)
+
+**Merged pull requests:**
+
+- Facepalm1 [\#13](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/13) ([michaelkramer](https://github.com/michaelkramer))
+
+## [v1.1.3](https://github.com/michaelkramer/eslint-plugin-facepalm/tree/v1.1.3) (2020-09-07)
+
+[Full Changelog](https://github.com/michaelkramer/eslint-plugin-facepalm/compare/v1.1.1...v1.1.3)
 
 **Merged pull requests:**
 
