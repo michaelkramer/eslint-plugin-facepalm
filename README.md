@@ -1,10 +1,13 @@
 # eslint-plugin-facepalm
 
-Do you get reviewers who tell you that these is a commented `console.log`?
+![npm (scoped)](https://img.shields.io/npm/v/@michaelkramer/eslint-plugin-facepalm?style=flat-square)
+![npm](https://img.shields.io/npm/dm/@michaelkramer/eslint-plugin-facepalm?style=flat-square)
 
-Do you feel like facepalm is the only response you can give?
+Do you get reviewers who tell you that these is a commented `console.log`? 🤦
 
-Do you want to stop submitting these silly code issues?
+Do you feel like facepalm is the only response you can give? 🤦
+
+Do you want to stop submitting these silly code issues? 🤦
 
 ### Why
 
@@ -34,7 +37,7 @@ yarn add @michaelkramer/eslint-plugin-facepalm --dev
 
 ![Example](example.png)
 
-### Rules
+## Rules
 
 #### no-comment-console
 
