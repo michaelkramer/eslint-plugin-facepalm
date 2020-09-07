@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Updated CHANGELOG.md [\#12](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/12) ([michaelkramer](https://github.com/michaelkramer))
 - Update onMasterChange.yml [\#11](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/11) ([michaelkramer](https://github.com/michaelkramer))
 - Test Actions [\#10](https://github.com/michaelkramer/eslint-plugin-facepalm/pull/10) ([michaelkramer](https://github.com/michaelkramer))
 
