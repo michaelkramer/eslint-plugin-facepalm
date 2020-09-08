@@ -1,7 +1,7 @@
 # eslint-plugin-facepalm
 
-![npm (scoped)](https://img.shields.io/npm/v/@michaelkramer/eslint-plugin-facepalm?style=flat-square)
-![npm](https://img.shields.io/npm/dm/@michaelkramer/eslint-plugin-facepalm?style=flat-square)
+[![npm (scoped)](https://img.shields.io/npm/v/@michaelkramer/eslint-plugin-facepalm?style=flat-square)](https://www.npmjs.com/package/@michaelkramer/eslint-plugin-facepalm)
+[![npm](https://img.shields.io/npm/dm/@michaelkramer/eslint-plugin-facepalm?style=flat-square)](https://www.npmjs.com/package/@michaelkramer/eslint-plugin-facepalm)
 
 Do you get reviewers who tell you that these is a commented `console.log`? 🤦
 
