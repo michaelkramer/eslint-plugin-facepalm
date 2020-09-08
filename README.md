@@ -55,3 +55,6 @@ Examples:
 - `// with(MATH)`
 - `// do {`
 - `// this.setStatus()`
+
+
+[![coffee](https://cdn.buymeacoffee.com/buttons/v2/default-orange.png)](https://www.buymeacoffee.com/CVtZwWc)
