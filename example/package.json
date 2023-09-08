@@ -31,7 +31,8 @@
     ],
     "rules": {
       "facepalm/no-comment-console": "warn",
-      "facepalm/no-useless-comments": "warn"
+      "facepalm/no-useless-comments": "warn",
+      "facepalm/missing-copyright": [ "warn","./mycopyright.txt" ]
     }
   }
 }
