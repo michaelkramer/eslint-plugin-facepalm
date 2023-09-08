@@ -29,8 +29,9 @@ yarn add @michaelkramer/eslint-plugin-facepalm --dev
       "@michaelkramer/eslint-plugin-facepalm"
     ],
     "rules": {
-      "@michaelkramer/facepalm/no-comment-console": "warn"
+      "@michaelkramer/facepalm/no-comment-console": "warn",
       "@michaelkramer/facepalm/no-useless-comments": "warn"
+      "@michaelkramer/facepalm/missing-copyright": [ "warn", "copyright.txt" ]
     }
 }
 ```
@@ -56,5 +57,8 @@ Examples:
 - `// do {`
 - `// this.setStatus()`
 
+#### missing-copyright
+
+this reports if the file is missing a copyright at the top of a file.
 
 [![coffee](https://cdn.buymeacoffee.com/buttons/v2/default-orange.png)](https://www.buymeacoffee.com/CVtZwWc)

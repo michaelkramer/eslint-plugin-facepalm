@@ -8,14 +8,11 @@ tester.run("missing-copyright", Rule, {
         options: [ "./copyright.txt"],
         code: `
 /*
- * This software is owned exclusively by Alert Innovation.
+ * This software is owned exclusively by NAME.
  * As such, this software may not be copied, modified, or
- * distributed without express permission from Alert.
+ * distributed without express permission from NAME.
  *
- * Copyright (c) 2022
- * Alert Innovation
- * 101 Billerica Avenue, Building 3
- * North Billerica, MA  01862
+ * Copyright (c) 2023
  * All Rights Reserved
 */
  const a = 2;
@@ -29,14 +26,11 @@ tester.run("missing-copyright", Rule, {
 `const a = 2;`,
           output: 
 `/*
-* This software is owned exclusively by Alert Innovation.
+* This software is owned exclusively by NAME.
 * As such, this software may not be copied, modified, or
-* distributed without express permission from Alert.
+* distributed without express permission from NAME.
 *
-* Copyright (c) 2022
-* Alert Innovation
-* 101 Billerica Avenue, Building 3
-* North Billerica, MA  01862
+* Copyright (c) 2023
 * All Rights Reserved
 */
 const a = 2;`,
