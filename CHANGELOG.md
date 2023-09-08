@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.1.5](https://github.com/michaelkramer/eslint-plugin-facepalm/tree/v1.1.5) (2023-09-08)
+
+[Full Changelog](https://github.com/michaelkramer/eslint-plugin-facepalm/compare/v1.1.4...v1.1.5)
+
 ## [v1.1.4](https://github.com/michaelkramer/eslint-plugin-facepalm/tree/v1.1.4) (2020-09-07)
 
 [Full Changelog](https://github.com/michaelkramer/eslint-plugin-facepalm/compare/v1.1.3...v1.1.4)
